@@ -5,10 +5,12 @@
 
 ### Tecnologias e Ferramentas
 
-Linguagens: Python
-Bibliotecas: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly Express, Streamlit, Pydeck
-Bancos de Dados: SQLite, MySQL
-Ambiente de Desenvolvimento: Visual Studio Code
+*Linguagens:* Python
+*Bibliotecas:* Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly Express, Streamlit, Pydeck
+
+*Bancos de Dados:* SQLite, MySQL
+
+*Ambiente de Desenvolvimento:* Visual Studio Code, PyCharm
 
 
 
