@@ -8,3 +8,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JowGuh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JowGuhrepo=DashboardST&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JowGuhrepo=Anemia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JowGuhrepo=previsaoderenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JowGuhrepo=EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
