@@ -3,6 +3,14 @@
 
 ###### Sou Jonathan Gustavo, cientista de dados em formação e apaixonado por programação, ciência de dados e desenvolvimento de soluções baseadas em tecnologia. Aqui você encontrará projetos que refletem minha jornada de aprendizado e aplicações práticas em análise de dados, machine learning e desenvolvimento de aplicações interativas.
 
+### Tecnologias e Ferramentas
+
+Linguagens: Python
+Bibliotecas: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Plotly Express, Streamlit, Pydeck
+Bancos de Dados: SQLite, MySQL
+Ambiente de Desenvolvimento: Visual Studio Code
+
+
 
 ### Detalhes
 
